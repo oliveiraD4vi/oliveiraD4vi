@@ -26,8 +26,6 @@ export default function Desenvolvedor() {
 ### sou aluno do curso de Engenharia de Computação na UFC - Campus Quixadá e atualmente estou estudando React Js e outras tecnologias de DEV WEB.
 
 <a href = "https://github.com/oliveiraD4vi"><img src="https://img.shields.io/static/v1?label=Overview&message=Davi&color=f8efd4&style=for-the-badge&logo=GitHub" target="_blank"></a>
-
-[![oliveiraD4vi](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraD4vi&hide=html&layout=compact=true&theme=radical)](https://github.com/oliveiraD4vi/)
 <hr>
 <p>
 
