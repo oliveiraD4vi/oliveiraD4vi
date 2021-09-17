@@ -1,21 +1,37 @@
-# Olá, meu nome é Davi
+```js
+import Desenvolvedor from 'components/oliveiraD4vi';
 
-### sou aluno do curso de Engenharia de Computação na UFC - Campus Quixadá e atualmente estou estudando React Js e outras tecnologias de desenvolvimento web.
+export default function Desenvolvedor() {
+  const nome         = 'Davi';
+  const idade        = '19';
+  const area         = 'DEV WEB';
+  const formacao     = 'Engenharia de Computação';
+  const universidade = 'UFC';
+  const local        = 'Campus Quixadá';
+  
+  return (
+    <>
+      <h1>Olá, meu nome é {nome}!</h1>
+      <h3>
+        sou aluno do curso de {formacao} na {universidade} - {local} e atualmente estou estudando 
+        React Js e outras tecnologias de {area}.
+      </h3>
+    </>
+  );
+}
+```
+
+# Olá, meu nome é Davi!
+
+### sou aluno do curso de Engenharia de Computação na UFC - Campus Quixadá e atualmente estou estudando React Js e outras tecnologias de DEV WEB.
 
 <a href = "https://github.com/oliveiraD4vi"><img src="https://img.shields.io/static/v1?label=Overview&message=Davi&color=f8efd4&style=for-the-badge&logo=GitHub" target="_blank"></a>
 
 [![oliveiraD4vi](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraD4vi&hide=html&layout=compact=true&theme=radical)](https://github.com/oliveiraD4vi/)
-
-<p>
-
-Estudando na **Universidade Federal do Ceará - Campus Quixadá.**</br>
-Eu sou desenvolvedor **web**.
-
-</p>
 <hr>
 <p>
 
-**Atualmente, estou aprendendo as seguintes tecnologias:**
+### Atualmente, estou aprendendo as seguintes tecnologias:
 
 </p>
 <div style="display: inline_block"><br>
