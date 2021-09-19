@@ -1,6 +1,4 @@
 ```js
-import Desenvolvedor from 'components/oliveiraD4vi';
-
 export default function Desenvolvedor() {
   const nome         = 'Davi';
   const idade        = '19';
@@ -19,6 +17,10 @@ export default function Desenvolvedor() {
     </>
   );
 }
+```
+
+```js
+import Desenvolvedor from 'components/oliveiraD4vi';
 ```
 
 # Olá, meu nome é Davi!
