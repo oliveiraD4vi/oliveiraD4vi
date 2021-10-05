@@ -29,9 +29,9 @@ import Desenvolvedor from 'components/oliveiraD4vi';
 <hr>
 <p>
   
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraD4vi&layout=compact&langs_count=7&theme=dark" />
-</div>
+</div> -->
 
 ### Atualmente, estou aprendendo as seguintes tecnologias:
 
