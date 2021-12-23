@@ -1,52 +1,22 @@
-```js
-export default function Desenvolvedor() {
-  const nome         = 'Davi';
-  const idade        = '19';
-  const area         = 'DEV WEB';
-  const formacao     = 'Engenharia de Computação';
-  const universidade = 'UFC';
-  const local        = 'Campus Quixadá';
-  
-  return (
-    <>
-      <h1>Olá, meu nome é {nome}!</h1>
-      <h3>
-        sou aluno do curso de {formacao} na {universidade} - {local} e atualmente estou estudando 
-        React Js e outras tecnologias de {area}.
-      </h3>
-    </>
-  );
-}
-```
-
-```js
-import Desenvolvedor from 'components/oliveiraD4vi';
-```
-
 # Olá, meu nome é Davi!
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### sou aluno do curso de Engenharia de Computação na UFC - Campus Quixadá e atualmente estou estudando React Js e outras tecnologias de DEV WEB.
-<hr>
-<p>
-  
-<!-- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraD4vi&layout=compact&langs_count=7&theme=dark" />
-</div> -->
+#### sou aluno do curso de Engenharia de Computação na UFC e desenvoledor Front-End. Estou sempre em busca de aprimoramento e aberto a novas experiências.
 
-### Atualmente, estou aprendendo as seguintes tecnologias:
+### Tecnologias:
 
-</p>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
+
 <hr>
 
 <p align="left">
-  Entre em contato comigo. Vamos aprender juntos!
+  Entre em contato comigo!
 </p>
 
 <a href = "https://www.instagram.com/d4v1.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
