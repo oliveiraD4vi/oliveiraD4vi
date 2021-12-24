@@ -1,9 +1,11 @@
 # Olá, meu nome é Davi!
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### sou aluno do curso de Engenharia de Computação na UFC e desenvolvedor Front-End. Estou sempre em busca de aprimoramento e aberto a novas experiências.
+### sou aluno do curso de Engenharia de Computação na UFC e desenvolvedor Front-End. 
 
-### Tecnologias:
+#### Estou sempre em busca de aprimoramento e aberto a novas experiências.
+
+### Atualmente eu tenho habilidades em:
 
 <div style="display: inline_block">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
