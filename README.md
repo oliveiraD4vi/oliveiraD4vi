@@ -5,7 +5,7 @@
 
 #### Estou sempre em busca de aprimoramento e aberto a novas experiências.
 
-### Atualmente eu tenho habilidades em:
+### Tenho conhecimentos em:
 
 <div style="display: inline_block">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
