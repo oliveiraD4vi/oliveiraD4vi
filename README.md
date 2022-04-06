@@ -21,7 +21,7 @@
 <hr>
 
 <p align="left">
-  Entre em contato comigo!
+  Entre em contato!
 </p>
 
 <a href = "https://www.instagram.com/d4v1.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
