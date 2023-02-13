@@ -1,7 +1,7 @@
 # Olá, meu nome é Davi!
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### sou um desenvolvedor web e com experiência em UX/UI, frontend com React e Vue e backend com Node. 
+### Sou um desenvolvedor web e com experiência em UX/UI, frontend com React e Vue e backend com Node. 
 
 #### Estou sempre em busca de aprimoramento e aberto a novas experiências.
 
