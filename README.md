@@ -26,3 +26,7 @@
 <a href = "https://www.instagram.com/d4v1.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/davi-oliveira-bb7458187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://github.com/oliveiraD4vi"><img src="https://img.shields.io/static/v1?label=Overview&message=Davi&color=f8efd4&style=for-the-badge&logo=GitHub" target="_blank"></a>
+
+<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraD4vi)](https://github.com/anuraghazra/github-readme-stats)
