@@ -2,7 +2,7 @@
 
 Desenvolvedor de software com foco em frontend e Angular. Hoje sou **Frontend Developer na Shuffle Up** (Estônia, remoto) e mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
 
-Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e integrações. Estudo Sistemas de Informação na Universidade Federal do Ceará, em Quixadá.
+Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e integrações. Sou formado em Sistemas de Informação pela Universidade Federal do Ceará, em Quixadá.
 
 **Portfólio:** [coaladev.com.br](https://coaladev.com.br) · **LinkedIn:** [davi-oliveira](https://www.linkedin.com/in/davi-oliveira-bb7458187/) · **E-mail:** [davi.comp.oliveira@gmail.com](mailto:davi.comp.oliveira@gmail.com)
 
