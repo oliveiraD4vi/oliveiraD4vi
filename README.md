@@ -1,32 +1,34 @@
-# Olá, meu nome é Davi!
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+# Davi Oliveira
 
-### Tenho conhecimentos em:
+Desenvolvedor de software com foco em frontend e Angular. Hoje sou **Frontend Developer na Shuffle Up** (Estônia, remoto) e mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
 
-<div style="display: inline_block">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Davi-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Davi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Davi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Davi-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Davi-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
+Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e integrações. Estudo Sistemas de Informação na Universidade Federal do Ceará, em Quixadá.
 
-<hr>
+**Portfólio:** [coaladev.com.br](https://coaladev.com.br) · **LinkedIn:** [davi-oliveira](https://www.linkedin.com/in/davi-oliveira-bb7458187/) · **E-mail:** [davi.comp.oliveira@gmail.com](mailto:davi.comp.oliveira@gmail.com)
 
-<p align="left">
-  Entre em contato!
-</p>
+## Projetos em destaque
 
-<a href = "https://www.instagram.com/d4v1.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/davi-oliveira-bb7458187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://github.com/oliveiraD4vi"><img src="https://img.shields.io/static/v1?label=Overview&message=Davi&color=f8efd4&style=for-the-badge&logo=GitHub" target="_blank"></a>
+**[Inhamuns Crono](https://inhamunscrono.com.br)**: inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB. Angular, NestJS, PostgreSQL, Java e Tauri.
 
-<hr>
+**[Guardião NBR 17225](https://github.com/oliveiraD4vi/nbr-17225-guard)**: extensão de código aberto que audita a acessibilidade de páginas web segundo a ABNT NBR 17225:2025, direto no DevTools. Disponível na [Chrome Web Store](https://chromewebstore.google.com/detail/guardi%C3%A3o-nbr-17225/fjggogkgkpppajpdbpcjlnldamjamfgl) e documentada em [guardiaonbr.com.br](https://guardiaonbr.com.br).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraD4vi)](https://github.com/anuraghazra/github-readme-stats)
+## Outros projetos
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [GranCARS](https://github.com/oliveiraD4vi/vehicle-rental-system-api) | Locação de veículos com API e clientes [Vue](https://github.com/oliveiraD4vi/vehicle-rental-system-vue), [React](https://github.com/oliveiraD4vi/vehicle-rental-system-react) e [Android](https://github.com/oliveiraD4vi/vehicle-rental-system-kotlin) | Node, Vue, React, Kotlin |
+| [Country Quiz](https://github.com/oliveiraD4vi/country-quiz) | Quiz de geografia com capitais e bandeiras ([jogar](https://country-quiz.coaladev.com.br)) | React |
+| [Rick and Morty](https://github.com/oliveiraD4vi/rick-morty) | Catálogo de personagens com busca e detalhes ([demo](https://rick-morty.coaladev.com.br)) | React |
+| [Jogo da velha](https://github.com/oliveiraD4vi/tictactoe) | Jogo da velha para dois jogadores ([jogar](https://tictactoe.coaladev.com.br)) | React |
+| [Poké Search](https://github.com/oliveiraD4vi/poke-search) | Busca e listagem de pokémons ([demo](https://poke-search-xi.vercel.app)) | Vue, TypeScript |
+
+## Experiência
+
+- **Shuffle Up**: Frontend Developer (L4), dez 2024 – atual
+- **Inhamuns Crono**: criador e desenvolvedor, 2025 – atual
+- **Elevar Commerce**: Fullstack Developer, set 2023 – dez 2024; estagiário de desenvolvimento fullstack, dez 2022 – ago 2023
+- **GREat · UFC**: bolsista de inovação tecnológica em frontend, jul 2021 – nov 2022
+
+## Tecnologias
+
+Angular · TypeScript · RxJS · React · Vue · Node · NestJS · Java · PostgreSQL · Prisma · Docker · SCSS
