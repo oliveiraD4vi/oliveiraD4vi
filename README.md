@@ -8,7 +8,7 @@ Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e in
 
 ## Projetos em destaque
 
-**[Inhamuns Crono](https://inhamunscrono.com.br)**: inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB. Angular, NestJS, PostgreSQL, Java e Tauri.
+**[Inhamuns Crono](https://inhamunscrono.com.br)**: inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB. Angular, NestJS, PostgreSQL e Java.
 
 **[Guardião NBR 17225](https://github.com/oliveiraD4vi/nbr-17225-guard)**: extensão de código aberto que audita a acessibilidade de páginas web segundo a ABNT NBR 17225:2025, direto no DevTools. Disponível na [Chrome Web Store](https://chromewebstore.google.com/detail/guardi%C3%A3o-nbr-17225/fjggogkgkpppajpdbpcjlnldamjamfgl) e documentada em [guardiaonbr.com.br](https://guardiaonbr.com.br).
 
