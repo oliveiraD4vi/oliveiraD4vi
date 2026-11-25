@@ -16,7 +16,6 @@ Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e in
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [GranCARS](https://github.com/oliveiraD4vi/vehicle-rental-system-api) | Locação de veículos com API e clientes [Vue](https://github.com/oliveiraD4vi/vehicle-rental-system-vue), [React](https://github.com/oliveiraD4vi/vehicle-rental-system-react) e [Android](https://github.com/oliveiraD4vi/vehicle-rental-system-kotlin) | Node, Vue, React, Kotlin |
 | [Country Quiz](https://github.com/oliveiraD4vi/country-quiz) | Quiz de geografia com capitais e bandeiras ([jogar](https://country-quiz.coaladev.com.br)) | React |
 | [Rick and Morty](https://github.com/oliveiraD4vi/rick-morty) | Catálogo de personagens com busca e detalhes ([demo](https://rick-morty.coaladev.com.br)) | React |
 | [Jogo da velha](https://github.com/oliveiraD4vi/tictactoe) | Jogo da velha para dois jogadores ([jogar](https://tictactoe.coaladev.com.br)) | React |
