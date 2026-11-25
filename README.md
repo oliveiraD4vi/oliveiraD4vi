@@ -1,6 +1,6 @@
 # Davi Oliveira
 
-Desenvolvedor de software com foco em frontend e Angular. Hoje sou **Frontend Developer na Shuffle Up** (Estônia, remoto) e mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
+Desenvolvedor de software com foco em frontend e Angular. Mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Developer na Shuffle Up** (Estônia, remoto), nos times de Pagamentos e de Conta do Jogador e Cadastro de uma plataforma multimarca, onde também cuidei de boa parte da estilização dos componentes a partir dos layouts do time de design.
 
 Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e integrações. Sou formado em Sistemas de Informação pela Universidade Federal do Ceará, em Quixadá.
 
@@ -8,9 +8,9 @@ Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e in
 
 ## Projetos em destaque
 
-**[Inhamuns Crono](https://inhamunscrono.com.br)**: inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB. Angular, NestJS, PostgreSQL e Java.
+**[Guardião NBR 17225](https://github.com/oliveiraD4vi/nbr-17225-guard)**: extensão de código aberto que audita a acessibilidade de páginas web segundo a ABNT NBR 17225:2025, norma inteiramente baseada na WCAG 2.2, direto no DevTools. Foi meu TCC e virou artigo apresentado na Competição de Avaliação do IHC 2026. Disponível na [Chrome Web Store](https://chromewebstore.google.com/detail/guardi%C3%A3o-nbr-17225/fjggogkgkpppajpdbpcjlnldamjamfgl) e documentada em [guardiaonbr.com.br](https://guardiaonbr.com.br).
 
-**[Guardião NBR 17225](https://github.com/oliveiraD4vi/nbr-17225-guard)**: extensão de código aberto que audita a acessibilidade de páginas web segundo a ABNT NBR 17225:2025, direto no DevTools. Disponível na [Chrome Web Store](https://chromewebstore.google.com/detail/guardi%C3%A3o-nbr-17225/fjggogkgkpppajpdbpcjlnldamjamfgl) e documentada em [guardiaonbr.com.br](https://guardiaonbr.com.br).
+**[Inhamuns Crono](https://inhamunscrono.com.br)**: inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB. Angular, NestJS, PostgreSQL e Java.
 
 ## Outros projetos
 
@@ -24,11 +24,13 @@ Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e in
 
 ## Experiência
 
-- **Shuffle Up**: Frontend Developer (L4), dez 2024 – atual
 - **Inhamuns Crono**: criador e desenvolvedor, 2025 – atual
+- **Shuffle Up**: Frontend Developer (L4), dez 2024 – nov 2026
 - **Elevar Commerce**: Fullstack Developer, set 2023 – dez 2024; estagiário de desenvolvimento fullstack, dez 2022 – ago 2023
 - **GREat · UFC**: bolsista de inovação tecnológica em frontend, jul 2021 – nov 2022
 
 ## Tecnologias
 
-Angular · TypeScript · RxJS · React · Vue · Node · NestJS · Java · PostgreSQL · Prisma · Docker · SCSS
+Angular · TypeScript · RxJS · SCSS · NG-ZORRO · Angular Material · React · Vue · Figma · Node · NestJS · Java · PostgreSQL · Prisma · Docker
+
+Acessibilidade: WCAG 2.2 · ABNT NBR 17225 · WAI-ARIA
