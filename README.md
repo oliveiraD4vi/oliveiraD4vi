@@ -1,6 +1,6 @@
 # Davi Oliveira
 
-Desenvolvedor de software com foco em frontend e Angular. Mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Developer na Shuffle Up** (Estônia, remoto), nos times de Pagamentos e de Conta do Jogador e Cadastro de uma plataforma multimarca, onde também cuidei de boa parte da estilização dos componentes a partir dos layouts do time de design.
+Desenvolvedor de software com foco em frontend e Angular. Mantenho o **[Inhamuns Crono](https://inhamunscrono.com.br)**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Engineer na Shuffle Up** (Estônia, remoto), nos times de Pagamentos e de Conta do Jogador e Cadastro de uma plataforma multimarca, onde também cuidei de boa parte da estilização dos componentes a partir dos layouts do time de design.
 
 Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e integrações. Sou formado em Sistemas de Informação pela Universidade Federal do Ceará, em Quixadá.
 
@@ -24,7 +24,7 @@ Trabalho com desenvolvimento web desde 2021, passando por frontend, backend e in
 ## Experiência
 
 - **Inhamuns Crono**: criador e desenvolvedor, 2025 – atual
-- **Shuffle Up**: Frontend Developer (L4), dez 2024 – nov 2026
+- **Shuffle Up**: Frontend Engineer (L4), dez 2024 – nov 2026
 - **Elevar Commerce**: Fullstack Developer, set 2023 – dez 2024; estagiário de desenvolvimento fullstack, dez 2022 – ago 2023
 - **GREat · UFC**: bolsista de inovação tecnológica em frontend, jul 2021 – nov 2022
 
